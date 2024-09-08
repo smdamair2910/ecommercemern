@@ -1,6 +1,6 @@
 # PROJECT : Ecommerce-web-application-using-MERN
 
-# Made By - Koustubh Sinha
+# Made By - Shaikh Mohammed Amair
 
 # Description
 
